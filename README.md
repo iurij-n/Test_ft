@@ -9,6 +9,9 @@
 - Celery 5.3 + Redis (broker & backend)
 - Windows 10/11 (полностью протестировано)
 
+## Ссылка на видео защиты
+[Ссылка на видео](https://drive.google.com/file/d/1tryxWFjJm-iHMJgBTXF9MC5Ab88gfama/view?usp=sharing)
+
 
 # 🧑‍💻 ТЕСТОВОЕ ЗАДАНИЕ: "Transactional System Core"
 
